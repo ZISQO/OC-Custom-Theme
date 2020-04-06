@@ -1,4 +1,4 @@
-<img src="https://sixflow.kr/files/attach/images/62595/100/110/c5857188675e871cee388290424ba2eb.jpg">
+<img src="https://sixflow.kr/files/attach/images/62595/100/110/f4d07d82180300f6d33a155a35c0a925.jpg">
 
 This Custom theme working with **OpenCore bootloader 0.5.7 (06th APR 2020) later**
 
