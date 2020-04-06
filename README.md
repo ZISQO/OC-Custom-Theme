@@ -12,3 +12,5 @@ This Custom theme working with OpenCore bootloader 0.5.7 (06th APR 2020) later
 - Reboot your system
 
 
+## Credit
+- [ZISQO](https://sixflow.kr)
